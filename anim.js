@@ -16,7 +16,8 @@ var lyricsData = [
   { text: "But there's something about us I've got to do", time:105 },
   { text: "Some kind of secret I will share with you", time: 110 },
 
-
+  // Interludio
+  { text: "", time: 116 }
 ];
 
 
